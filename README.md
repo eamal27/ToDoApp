@@ -1,5 +1,5 @@
 # To Do
-## Super simple app to keep a list of to-do's
+## Super simple to-do list keeper
 
 ### Add Item
 
