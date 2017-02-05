@@ -1,5 +1,11 @@
 # To Do
-Super simple to-do list keeper
+A learner To-Do iOS app built in Swift
+
+## Technologies
+
+* Swift
+
+* Xcode
 
 # Demo
 
