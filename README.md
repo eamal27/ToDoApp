@@ -16,3 +16,7 @@
 ## Toggle Night Mode
 
 ![alt text](https://github.com/eamal27/ToDoApp/blob/master/demo/night_mode.gif "Toggle Night-Mode")
+
+# License
+
+[GPL-3.0](LICENSE)
